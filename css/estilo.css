@@ -1,0 +1,342 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #293651;
+  text-justify: auto;
+  margin-top: 55px;
+}
+
+.partecima {
+  margin: auto;
+  width: auto;
+  max-width: 1200px;
+}
+
+.imghomem {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 420px;
+  position: relative;
+  top: 10px;
+  right: 50px;
+}
+
+.b {
+  font-weight: normal;
+  color: #787979;
+  font-size: 35px;
+  line-height: 33px;
+}
+
+.buton {
+  background-color: #00a78e;
+  padding: 15px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 21px;
+  width: 270px;
+  height: 60px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.corola {
+  color: #00b18e;
+}
+.espaçol {
+  letter-spacing: 2.3px;
+  font-weight: 100;
+}
+.partebaixa {
+  height: 1800px;
+  width: 1700px;
+  display: block;
+  margin: auto;
+  max-width: 1700px;
+}
+
+.waveg {
+  border: #64c9ba solid 2px;
+  background-color: #45a88e;
+  color: #ffffff;
+  width: 1500px;
+  height: 300px;
+  position: relative;
+  border-radius: 10px;
+  right: 13px;
+  top: -40px;
+  margin: auto;
+  max-width: 1500px;
+}
+.qp {
+  width: 600px;
+  height: 600px;
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 6px;
+  border: #f6f6f6 2px;
+  padding: 36px;
+  position: relative;
+  left: 130px;
+}
+
+.qp2 {
+  width: 600px;
+  height: 600px;
+  background-color: rgb(255, 255, 255);
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 6px;
+  border: #f6f6f6 2px;
+  padding: 36px;
+  position: relative;
+  left: 130px;
+  margin-left: 70px;
+  margin-bottom: 70px;
+}
+
+.fontefina2 {
+  font-weight: 100;
+}
+
+.icon {
+  width: 200px;
+  display: inline;
+  margin-left: 70px;
+}
+
+.barrinha1 {
+  width: 940px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 85%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.barrinha2 {
+  width: 940px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 75%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.barrinha3 {
+  width: 940px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 90%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.barrinha4 {
+  width: 940px;
+  height: 20px;
+  background: linear-gradient(to right, #45a88e 65%, #eeeff2 0%);
+  border-radius: 12px;
+  position: relative;
+}
+
+.fontefina {
+  font-size: 65px;
+  font-weight: 900;
+}
+
+.textow {
+  font-weight: 100;
+  position: relative;
+  left: 70px;
+  top: 10px;
+  z-index: 1;
+}
+.listrinha {
+  width: 130px;
+  height: 5px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-left: 70px;
+  display: inline-block;
+  position: relative;
+  z-index: 1;;
+}
+
+.listrinha2 {
+  width: 20px;
+  height: 5px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.cantos {
+  width: 20px;
+  position: relative;
+  left: 790px;
+  top: -40px;
+}
+
+.cantos2 {
+  width: 20px;
+  position: relative;
+  left: 690px;
+  top: -40px;
+}
+.boldw {
+  font: bold;
+}
+
+.cantos3 {
+  width: 20px;
+  position: relative;
+  left: 840px;
+  top: -40px;
+}
+.boldw {
+  font: bold;
+}
+
+.cantos4 {
+  width: 20px;
+  position: relative;
+  left: 600px;
+  top: -40px;
+}
+
+.boldw {
+  font: bold;
+}
+
+.aline {
+  text-align: center;padding-top: 25px;
+}
+
+.listrinha4 {
+  width: 80px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  margin-left: 790px;
+  display: inline-block;
+  position: relative;
+  top: -15px;
+}
+
+.listrinha5 {
+  width: 15px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  margin-left: 3px;
+  display: inline-block;
+  position: relative;
+  top: -15px;
+}
+
+.ulderek {
+  display: inline-block;
+  color: #00a78e;
+}
+
+.gradient {
+  background-image: linear-gradient(#f7f7f7, rgb(255, 255, 255));
+}
+
+.iconesss {
+  position: relative;
+  left: 1%;
+}
+
+.listrinha6 {
+  width: 80px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  margin-left: 25px;
+  display: inline-block;
+  position: relative;
+  top: -15px;
+}
+
+.listrinha7 {
+  width: 15px;
+  height: 5px;
+  background-color: #00a78e;
+  border-radius: 20px;
+  margin-left: 3px;
+  display: inline-block;
+  position: relative;
+  top: -15px;
+}
+
+.barrachata {
+  max-width: 1000px;
+  padding-top: 50px;
+  margin: auto;
+  font-size: 35px;
+}
+
+.cinzaoatras {
+  background-color: #f9f9f9;
+  max-height: 1725px;
+}
+
+.widthimagens {
+  width: 75px;
+  height: 75px;
+  display: inline-block;
+  position: relative;
+  left: -1%;
+}
+
+.baixao {
+  max-width: 550px;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 150px;
+}
+
+.padingfotos { padding-left: 100px;}
+
+.padinghome { padding-left: 65px;}
+
+.sombra {box-shadow: 0 0 1em #b3b3b3;}
+
+.custom-shape-divider-bottom-1650378902 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1650378902 svg {
+  position: relative;
+  display: block;
+  width: calc(150% + 1.3px);
+  height: 268px;
+}
+
+.custom-shape-divider-bottom-1650378902 .shape-fill {
+  fill: #47AF99;
+}
+
+.q1q2t {font-size: 50px;}
+ 
+.porcentagem {
+  width: 50px;
+color: #787979;
+  margin-left: 88%;
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+
+.textobarrinhas {
+width: 230px;
+margin: 0;}
+
+.backG {background-color: #f9f9f9;}
